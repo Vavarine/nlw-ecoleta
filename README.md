@@ -1,6 +1,6 @@
 # Ecoleta
 <p>Build on Next Level Week</p>
-<p>Build with NodeJs, ReactJs e React Native</p>
+<p>Build with NodeJs, ReactJs and React Native</p>
 
 ## Web
 <p>
