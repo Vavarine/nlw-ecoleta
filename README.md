@@ -33,7 +33,7 @@
 - [KnexJs](http://knexjs.org) - SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift
 - [Celebrate](https://github.com/arb/celebrate) - A joi validation middleware for Express.
 - [CORS](https://www.npmjs.com/package/cors) - Cross-origin Resource Sharing
-- [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and NodeJs
+- [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and NodeJs.
 - [Multer](https://www.npmjs.com/package/multer) - Multer is a NodeJs middleware for file upload
 - [ESlint](https://eslint.org) - ESLint statically analyzes your code to quickly find problems. 
 - [Nodemon](https://nodemon.io/) - Process Manager used in the development
