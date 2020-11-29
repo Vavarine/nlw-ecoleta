@@ -67,7 +67,7 @@ O servidor iniciará na porta:3333 - acesse <http://localhost:3333>
 ### Rodando o Front End (web)
 
 ```bash
-> cd backend
+> cd web
 > yarn install
 > yarn start
 ```
