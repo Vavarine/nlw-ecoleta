@@ -38,7 +38,6 @@
 - [Nodemon](https://nodemon.io/) é um monitor de scripts usado no desenvolvimento
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ## Instalação e Start
 Esse é um monorepo, todo o código fonte desse projeto esta nesse repositório. É necessário entrar nas pastas fontes do projeto **web**, **server** e **mobile** e instalar suas dependências individualmente. Os exemplos dos códigos abaixo são usando o gerenciador de pacotes **Yarn**, se não quiser apenas troque os comandos **yarn** por **npm** 
